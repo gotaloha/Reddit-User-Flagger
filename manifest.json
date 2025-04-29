@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Reddit Asshole List",
+  "version": "1.0",
+  "description": "Provides the ability to personally flag unsavory Redditors, allowing easier identification in future post comments.\n\nWhen this extension is active, a small flag icon will appear next to each poster's username. If clicked, every comment that has been posted from the offending user will appear with a red border and background and the flag will change to an a**hole icon. Simply click the a**hole icon again to remove this person from your list.",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.reddit.com/*"],
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "logo.png"
+  }
+}

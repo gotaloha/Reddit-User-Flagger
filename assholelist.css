@@ -1,0 +1,786 @@
+shreddit-ad-post,
+#subreddit-right-rail__partial {
+  display: none;
+}
+shreddit-aspect-ratio {
+  --max-height: min(100%, calc(100vh - calc(var(--shreddit-header-height) + 35px))) !important;
+  max-height: unset !important;
+}
+
+shreddit-post shreddit-aspect-ratio {
+  --aspect-ratio: unset;
+  /*height: 100px;*/
+  width: 50%;
+  height: 180px !important;
+  padding: 0;
+}
+
+/*
+div[slot='post-media-container'] {
+  height: 550px;
+}
+*/
+
+.media-lightbox-img {
+  background: unset;
+  height: fit-content;
+}
+
+shreddit-comment[author=gaslighter],
+shreddit-comment[author=True_Wishbone5647] {
+  border: 2px solid rgba(255, 155, 0, 0.25);
+  background-color: rgba(255, 155, 0, .1);
+}
+
+shreddit-comment[author=asshole],
+shreddit-comment[author=asshole],
+shreddit-comment[author=asshole],
+shreddit-comment[author=asshole],
+shreddit-comment[author=asshole],
+shreddit-comment[author=asshole],
+shreddit-comment[author=asshole],
+shreddit-comment[author=asshole],
+shreddit-comment[author=asshole],
+shreddit-comment[author=RomaAeternus],
+shreddit-comment[author=redditor01020],
+shreddit-comment[author=Cheba_hut_jon],
+shreddit-comment[author=wanderingpeddlar],
+shreddit-comment[author=Old_Afternoon_971],
+shreddit-comment[author=mattronimus007],
+shreddit-comment[author=longonlyallocator],
+shreddit-comment[author=IllustratorHour3560],
+shreddit-comment[author=GeneralCarlosQ17],
+shreddit-comment[author=Aldoberg],
+shreddit-comment[author=RichardMayo95],
+shreddit-comment[author=Jopplo03],
+shreddit-comment[author=Gheezer1234],
+shreddit-comment[author=pickledplumber],
+shreddit-comment[author=Less-Door7399],
+shreddit-comment[author=niseBabysitter],
+shreddit-comment[author=Local-Journalist-509],
+shreddit-comment[author=Major_Chart1479],
+shreddit-comment[author=veteran_grognard],
+shreddit-comment[author=goingfourtheone],
+shreddit-comment[author=caem123],
+shreddit-comment[author=Next_Ant_4353],
+shreddit-comment[author=Comprehensive_Main],
+shreddit-comment[author=logus8],
+shreddit-comment[author=Smithy2232],
+shreddit-comment[author=youwillbechallenged],
+shreddit-comment[author=liberaeli420],
+shreddit-comment[author=j_michel],
+shreddit-comment[author=BillyMac05],
+shreddit-comment[author=SpookyStrike],
+shreddit-comment[author=msto4],
+shreddit-comment[author=ogus8],
+shreddit-comment[author=XXXCincinnatusXXX],
+shreddit-comment[author=Amiigo7],
+shreddit-comment[author=Ploutz],
+shreddit-comment[author=Familiar-Ad-7089],
+shreddit-comment[author=Behind_da_Rabbit],
+shreddit-comment[author=Audience-Electrical],
+shreddit-comment[author=Advisor02],
+shreddit-comment[author=Designer-Opposite-24],
+shreddit-comment[author=The_Western_Woodcock],
+shreddit-comment[author=Imagine_soggy_bread],
+shreddit-comment[author=VelcroWarrior],
+shreddit-comment[author=AgileFlea77],
+shreddit-comment[author=nonamelamedame],
+shreddit-comment[author=DecisionVisible7028],
+shreddit-comment[author=Hoodrow-Thrillson],
+shreddit-comment[author=Other-Government-118],
+shreddit-comment[author=Wise-Activity1312],
+shreddit-comment[author=Sharp_Simple_2764],
+shreddit-comment[author=GE4520],
+shreddit-comment[author=Guilty-Top-7],
+shreddit-comment[author=GeneReddit123],
+shreddit-comment[author=StorageIntelligent64],
+shreddit-comment[author=Somervilledrew],
+shreddit-comment[author=whatareyousomekinda],
+shreddit-comment[author=real_ikonn],
+shreddit-comment[author=The_Big_Untalented],
+shreddit-comment[author=veryirishhardlygreen],
+shreddit-comment[author=Ok-Promotion1490],
+shreddit-comment[author=Lost-Procedure-4313],
+shreddit-comment[author=Slaaneshdog],
+shreddit-comment[author=Huckleberry-V],
+shreddit-comment[author=TimothyMimeslayer],
+shreddit-comment[author=Lumpy_Green_3021],
+shreddit-comment[author=Stealin],
+shreddit-comment[author=OneTrueScot],
+shreddit-comment[author=psycho314Photo],
+shreddit-comment[author=DifferenceAlarmed45],
+shreddit-comment[author=LeadPrevenger],
+shreddit-comment[author=Shitty-ass-date],
+shreddit-comment[author='65Nilats'],
+shreddit-comment[author=Shitty-ass-date],
+shreddit-comment[author=veteran_grognard],
+shreddit-comment[author=Practical_Ad8542],
+shreddit-comment[author=Ok-Calligrapher-1836],
+shreddit-comment[author=Stunning-Insect7135],
+shreddit-comment[author=TheBestTexan2],
+shreddit-comment[author=drewper12],
+shreddit-comment[author=raceforseis21],
+shreddit-comment[author=Ok-Calligrapher-1836],
+shreddit-comment[author=Sensitive_World7780],
+shreddit-comment[author=jimbo40042],
+shreddit-comment[author=BrutalHunny],
+shreddit-comment[author=Ambitious-Piccolo843],
+shreddit-comment[author=GrowFreeFood],
+shreddit-comment[author=Goodvibes1096],
+shreddit-comment[author=Eventually_Shredded],
+shreddit-comment[author=Your_Country_sux],
+shreddit-comment[author=Economy_Swim_8585],
+shreddit-comment[author=Unlucky-Meaning-4956],
+shreddit-comment[author=Ok-Drama-4361],
+shreddit-comment[author=ShowBoobsPls],
+shreddit-comment[author=BunnyGoHops],
+shreddit-comment[author=BeKind999],
+shreddit-comment[author=Unoriginal-],
+shreddit-comment[author=Jazzlike_Schedule_51],
+shreddit-comment[author=JorJorWell1984],
+shreddit-comment[author=Mysterious_Oven1234],
+shreddit-comment[author=DetroitSportsFan-],
+shreddit-comment[author=Fantastic-Device8916],
+shreddit-comment[author=BearSennepaii],
+shreddit-comment[author=weAREgoingback],
+shreddit-comment[author=zennedouts_412],
+shreddit-comment[author=Quexana],
+shreddit-comment[author=StorageCrazy2539],
+shreddit-comment[author=kinshoBanhammer],
+shreddit-comment[author=NuanceManExe],
+shreddit-comment[author=sadjetsfan06],
+shreddit-comment[author=brave_plank],
+shreddit-comment[author=TwoBricksShort],
+shreddit-comment[author=Abort_the_Old],
+shreddit-comment[author=zeld-ops2],
+shreddit-comment[author=Reddit_Is_Impartial],
+shreddit-comment[author=Other_Competition_95],
+shreddit-comment[author=Blue_Iris_5],
+shreddit-comment[author=Passionpet],
+shreddit-comment[author=Loccstana],
+shreddit-comment[author=DrSpringsGaming],
+shreddit-comment[author=BunnyGoHops],
+shreddit-comment[author=Purple_Pick5158],
+shreddit-comment[author=JWBeyond1],
+shreddit-comment[author=one2lll],
+shreddit-comment[author=wally002],
+shreddit-comment[author=Smooth_Record_42],
+shreddit-comment[author=Realistic_Lead8421],
+shreddit-comment[author=dcsquared1],
+shreddit-comment[author=FootlongDonut],
+shreddit-comment[author=PaleontologistOk3876],
+shreddit-comment[author=RabbitHots504],
+shreddit-comment[author=Outrageous_Fee248],
+shreddit-comment[author=probablymakingthisup],
+shreddit-comment[author=Human_Cranberry_2805],
+shreddit-comment[author=RSCash12345],
+shreddit-comment[author=Actual-Marionberry16],
+shreddit-comment[author=EnvironmentalEye4537],
+shreddit-comment[author=super0cereal0],
+shreddit-comment[author=OL_bighead],
+shreddit-comment[author=desultoryGuy],
+shreddit-comment[author=zifico],
+shreddit-comment[author=FBGDuckSauce],
+shreddit-comment[author=Enough_Wallaby7064],
+shreddit-comment[author=Alwaystired254],
+shreddit-comment[author=oooobrother],
+shreddit-comment[author=liovega],
+shreddit-comment[author=FBGDuckSauce],
+shreddit-comment[author=Aniwaya1],
+shreddit-comment[author=bytemage],
+shreddit-comment[author=epicstruggle],
+shreddit-comment[author=JoshSurfsTheInternet],
+shreddit-comment[author=twixeater78],
+shreddit-comment[author=williamgman],
+shreddit-comment[author=punindya],
+shreddit-comment[author=Haunting-Peach-6437],
+shreddit-comment[author=soonerthebetter],
+shreddit-comment[author=ardent_wolf],
+shreddit-comment[author=spet-],
+shreddit-comment[author=J05H_UA123],
+shreddit-comment[author=FluffyB12],
+shreddit-comment[author=Skulkgra],
+shreddit-comment[author=IIIllllIIIllI],
+shreddit-comment[author=andySepp],
+shreddit-comment[author=Ronaldo_McDonaldo81],
+shreddit-comment[author=WorkerClass],
+shreddit-comment[author=baxterstate],
+shreddit-comment[author=Assbreather035],
+shreddit-comment[author=Cold-Dog-5624],
+shreddit-comment[author=Thatsinterestingnot],
+shreddit-comment[author='2much2Jung'],
+shreddit-comment[author=Humble_Pie188],
+shreddit-comment[author=Ripamon],
+shreddit-comment[author=TopolgyDigest],
+shreddit-comment[author=YoungDan23],
+shreddit-comment[author=IwinULose19692],
+shreddit-comment[author=sardine_succotash],
+shreddit-comment[author=spying_on_you_rn],
+shreddit-comment[author=MollyPanse],
+shreddit-comment[author=FartBubbles9000],
+shreddit-comment[author=recoveringsulkaholic],
+shreddit-comment[author=atxlrj],
+shreddit-comment[author=Comfortable-Eye-3879],
+shreddit-comment[author=fishingpost12],
+shreddit-comment[author=Peacefulgamer2023 ],
+shreddit-comment[author=noxel],
+shreddit-comment[author=WackZoner],
+shreddit-comment[author=Romeo_Juliet_Golf],
+shreddit-comment[author='714music'],
+shreddit-comment[author=ahhhhhhhhhhhhhhhhkh],
+shreddit-comment[author=SomeKindaCasual],
+shreddit-comment[author=Filmatic113],
+shreddit-comment[author=bordeburgu26],
+shreddit-comment[author=BuildBackRicher],
+shreddit-comment[author=yoaverezzz],
+shreddit-comment[author=lalabera],
+shreddit-comment[author=PunkDrunk777],
+shreddit-comment[author=Future-Salad-7715],
+shreddit-comment[author=AmericaEffYeah],
+shreddit-comment[author=Cute-Contract-6762],
+shreddit-comment[author=SurroundTiny],
+shreddit-comment[author=newsspotter],
+shreddit-comment[author=SnooChickens561],
+shreddit-comment[author=LaMelonBalls],
+shreddit-comment[author=OlympicHammer],
+shreddit-comment[author=wisertime07],
+shreddit-comment[author=BidensAFraud],
+shreddit-comment[author=Weak-Ad-3464],
+shreddit-comment[author=LieOk6446],
+shreddit-comment[author=simoncea],
+shreddit-comment[author=Main-Potential6511],
+shreddit-comment[author=Ourmomentourtime],
+shreddit-comment[author=Subject-Promise-4796],
+shreddit-comment[author=SafeMycologist9041],
+shreddit-comment[author=saccotac],
+shreddit-comment[author=Weary-Summer1138],
+shreddit-comment[author=Tuxcali1],
+shreddit-comment[author=Blind_Slug],
+shreddit-comment[author=BendicantMias],
+shreddit-comment[author=BongRipper69xXx],
+shreddit-comment[author=laviex6],
+shreddit-comment[author=ivandan86],
+shreddit-comment[author=Mando177],
+shreddit-comment[author=AISwearengen],
+shreddit-comment[author=Oldschoolhype2],
+shreddit-comment[author=LavishnessAlive6676],
+shreddit-comment[author=somosextremos82],
+shreddit-comment[author=Opening-Citron2733],
+shreddit-comment[author=Speedy89t],
+shreddit-comment[author=wallace6464],
+shreddit-comment[author=Zealousideal-Sea678],
+shreddit-comment[author=Chance_Papaya_6181],
+shreddit-comment[author=MakaGirlRed],
+shreddit-comment[author=iuthnj34],
+shreddit-comment[author=Uysee],
+shreddit-comment[author=tommylee95],
+shreddit-comment[author=darklordtimothy],
+shreddit-comment[author=AssociationUsual212],
+shreddit-comment[author=WellingtonBeefy],
+shreddit-comment[author=BussyOnline],
+shreddit-comment[author=Slackjawed_Horror],
+shreddit-comment[author=sysjager],
+shreddit-comment[author=Traditional-Hyena-68],
+shreddit-comment[author=regardedfrog],
+shreddit-comment[author=Positive_Vines],
+shreddit-comment[author=Lower_Reward_8864],
+shreddit-comment[author=lastnitesdinner],
+shreddit-comment[author=KingGoldark],
+shreddit-comment[author=Suitable-Economy-346],
+shreddit-comment[author=GoodResident2000],
+shreddit-comment[author=TedriccoJones],
+shreddit-comment[author=AegonTheAuntFucker],
+shreddit-comment[author=WaytMen26],
+shreddit-comment[author=Stealthy_Snow_Elf],
+shreddit-comment[author=SpicyWaspSalsa],
+shreddit-comment[author=ChesleyBasket],
+shreddit-comment[author=ds4891],
+shreddit-comment[author=Late_Sample_5568],
+shreddit-comment[author=Ernesto_Bella],
+shreddit-comment[author=Available-Mongoose-2],
+shreddit-comment[author=This-Maintenance1400],
+shreddit-comment[author=fripletister],
+shreddit-comment[author=Cyberpunk890],
+shreddit-comment[author=anticixx2],
+shreddit-comment[author=bigj4155],
+shreddit-comment[author=Stitchy2],
+shreddit-comment[author=Acceptable_Title7815],
+shreddit-comment[author=FootballPizzaMan],
+shreddit-comment[author=Deff_not_bill_gates],
+shreddit-comment[author=ubcstaffer123],
+shreddit-comment[author=MeiTheCat09],
+shreddit-comment[author=CanConfirmlol],
+shreddit-comment[author=Quiet-Alarm1844],
+shreddit-comment[author=WankerTWashington],
+shreddit-comment[author=StormOk7544],
+shreddit-comment[author=newsweek],
+shreddit-comment[author=ToughShaper],
+shreddit-comment[author=IvoryGods_],
+shreddit-comment[author=HonestCauliflower91],
+shreddit-comment[author=ITGuy7337],
+shreddit-comment[author=No-Objective7265],
+shreddit-comment[author=jackdeadcrow],
+shreddit-comment[author=Think-State30],
+shreddit-comment[author=dirtysundar],
+shreddit-comment[author=mutedexpectations],
+shreddit-comment[author=Ned_Isakoff1],
+shreddit-comment[author=d2r_freak],
+shreddit-comment[author=Danstan487],
+shreddit-comment[author=Buck4phat],
+shreddit-comment[author=nepatsfan49],
+shreddit-comment[author=Clean-Effort-209],
+shreddit-comment[author=giorgio_tsoukalos_],
+shreddit-comment[author=Level_Put8271],
+shreddit-comment[author=ArtLover357],
+shreddit-comment[author=jinc1019],
+shreddit-comment[author=Chester_Copperpot_1],
+shreddit-comment[author=stewpidazzol],
+shreddit-comment[author=wisertime07],
+shreddit-comment[author=Alternative-Dog-8808],
+shreddit-comment[author=redditor01020],
+shreddit-comment[author=Supra_Genius],
+shreddit-comment[author=HooverInstitution],
+shreddit-comment[author=Infamous-Rate2966],
+shreddit-comment[author=TheLiberator30],
+shreddit-comment[author=MRToadhops],
+shreddit-comment[author=UnityAmericas],
+shreddit-comment[author=FireWhileCloaked],
+shreddit-comment[author=Smutty_Writer_Person],
+shreddit-comment[author=Tokinibara_],
+shreddit-comment[author=PUMPFISTS],
+shreddit-comment[author=ActualModerateHusker],
+shreddit-comment[author=MondayNightHugz],
+shreddit-comment[author=unknown_cauliflower],
+shreddit-comment[author=blak_plled_by_librls],
+shreddit-comment[author=HippieGunLover],
+shreddit-comment[author=Fan-of-Pancheros],
+shreddit-comment[author=WGburly],
+shreddit-comment[author=arcompositions],
+shreddit-comment[author=luckyluchianooo],
+shreddit-comment[author=nadiwereb],
+shreddit-comment[author=Forsaken_Manner_767],
+shreddit-comment[author=Cosmic_Seth],
+shreddit-comment[author=Plinythemelder],
+shreddit-comment[author=Subject-Ad4441],
+shreddit-comment[author=FLUSH_THE_TRUMP],
+shreddit-comment[author=TrevorDill],
+shreddit-comment[author=GizzleWiz],
+shreddit-comment[author=VortexM19],
+shreddit-comment[author=daners101],
+shreddit-comment[author=Radiant-Specific969],
+shreddit-comment[author=acfc22],
+shreddit-comment[author=Either-Initiative550],
+shreddit-comment[author=Mental_Lemon3565],
+shreddit-comment[author=foochacho],
+shreddit-comment[author=option010],
+shreddit-comment[author=acfc22],
+shreddit-comment[author=Front_Appointment_68],
+shreddit-comment[author=atilladahoney],
+shreddit-comment[author=ChocolateHoneycomb],
+shreddit-comment[author=caveatlector73],
+shreddit-comment[author=CRTsdidnothingwrong],
+shreddit-comment[author=vagabond_nerd],
+shreddit-comment[author=anonpurple],
+shreddit-comment[author=DontH4zeMeBro],
+shreddit-comment[author=Redrum_15],
+shreddit-comment[author=redditor01020],
+shreddit-comment[author=SaltyPreference8433],
+shreddit-comment[author=mister_pringle],
+shreddit-comment[author=lawschoolthrowaway36],
+shreddit-comment[author=Rubrixie],
+shreddit-comment[author=Anticitizen-Zero],
+shreddit-comment[author=Bakedads],
+shreddit-comment[author=Swarkbaby870],
+shreddit-comment[author=greekcurrylover],
+shreddit-comment[author=Vast_Comedian],
+shreddit-comment[author=PersonalOffer6747],
+shreddit-comment[author=MobileLonely2065],
+shreddit-comment[author=jewboy916],
+shreddit-comment[author=arrakis_kiwi],
+shreddit-comment[author=creamcitybrix],
+shreddit-comment[author=WeakKitchen199],
+shreddit-comment[author=lurking293],
+shreddit-comment[author=HenryDorsettCase47],
+shreddit-comment[author=CivilAd4403],
+shreddit-comment[author=birdsemenfantasy],
+shreddit-comment[author=Euphoric-Guess-1277],
+shreddit-comment[author=MeijiHao],
+shreddit-comment[author='-Gramsci-'],
+shreddit-comment[author=lucasbelite],
+shreddit-comment[author=heatrealist],
+shreddit-comment[author=Sammy4115],
+shreddit-comment[author=biggerm3],
+shreddit-comment[author=Qwiksting],
+shreddit-comment[author=Transsexual_Menace],
+shreddit-comment[author=DatePlane4484],
+shreddit-comment[author=sixteen-six-six-six],
+shreddit-comment[author=PointedlyDull],
+shreddit-comment[author=jwwin],
+shreddit-comment[author=firefighter5145],
+shreddit-comment[author=Flaky_Strawberry1124],
+shreddit-comment[author=buff-el-primo],
+shreddit-comment[author=DastardDante],
+shreddit-comment[author=BohemondDiAntioch],
+shreddit-comment[author=apex199268],
+shreddit-comment[author=ShakinBakin15],
+shreddit-comment[author=Davros_the_DalekFan],
+shreddit-comment[author=DragVast7560],
+shreddit-comment[author=rmrnnr],
+shreddit-comment[author=RedditEatsItself],
+shreddit-comment[author=TundraCrusader],
+shreddit-comment[author=AnotherPNWWoodworker],
+shreddit-comment[author=Flashy-Cockroach9690],
+shreddit-comment[author=redditreadred],
+shreddit-comment[author=Prestigious-Tap9674],
+shreddit-comment[author=Open_Buy2303],
+shreddit-comment[author=Ontarioreignfan],
+shreddit-comment[author=ShoppingDismal3864],
+shreddit-comment[author=wvblocks],
+shreddit-comment[author=ctdca],
+shreddit-comment[author=LazyBoyD],
+shreddit-comment[author=Simple-Facts],
+shreddit-comment[author=sideAccount42],
+shreddit-comment[author=ParappaTheWrapperr],
+shreddit-comment[author=cafandhalf],
+shreddit-comment[author=Important-Cable-2504],
+shreddit-comment[author=Heiferoni],
+shreddit-comment[author=emaw63],
+shreddit-comment[author=Blastosist],
+shreddit-comment[author=Weird_Direction1300],
+shreddit-comment[author=King_Allant],
+shreddit-comment[author=Routine_Iron8604],
+shreddit-comment[author=Sufficient_Meal4378],
+shreddit-comment[author=Sufficient_Meal4378],
+shreddit-comment[author=bucko_fazoo],
+shreddit-comment[author=Subutei],
+shreddit-comment[author=Visual_Expert_5971],
+shreddit-comment[author=TheTelegraph],
+shreddit-comment[author=Something_morepoetic],
+shreddit-comment[author=fingerpopsalad],
+shreddit-comment[author=MoodAlternative2118],
+shreddit-comment[author=horseaffles],
+shreddit-comment[author=ECore],
+shreddit-comment[author=jetskimanatee],
+shreddit-comment[author=Ok_Turnover_5016],
+shreddit-comment[author=White_Christian_Man],
+shreddit-comment[author=hastewaste95],
+shreddit-comment[author=SlugOfBlindness],
+shreddit-comment[author=Odd-Calligrapher9660],
+shreddit-comment[author=revilution31],
+shreddit-comment[author=Entire-Database1679],
+shreddit-comment[author=taylor325],
+shreddit-comment[author=schmeoin],
+shreddit-comment[author=SplendidPerformance],
+shreddit-comment[author=Limp_Kielbasa],
+shreddit-comment[author=DiaNoga_Grimace_G43],
+shreddit-comment[author=GirthyBird257],
+shreddit-comment[author=zskol0331],
+shreddit-comment[author=epicjorjorsnake],
+shreddit-comment[author=HeavyBeanEater],
+shreddit-comment[author=Tokyosmash_],
+shreddit-comment[author=blackthorne000],
+shreddit-comment[author=tapatiohandshake],
+shreddit-comment[author=zaorocks],
+shreddit-comment[author=marsisboolin],
+shreddit-comment[author=No-Introduction4089],
+shreddit-comment[author=MustarKrakish420],
+shreddit-comment[author=sooopy336],
+shreddit-comment[author=dukkha_dukkha_goose],
+shreddit-comment[author=stoutshrimp],
+shreddit-comment[author=AlexTimber151],
+shreddit-comment[author=InternetPeon],
+shreddit-comment[author=Jerryd1994],
+shreddit-comment[author=STL_Jayhawk],
+shreddit-comment[author=sirthunksalot],
+shreddit-comment[author=Tyler_Durden_2023],
+shreddit-comment[author=SeeMe_After_Class],
+shreddit-comment[author=Hollermut],
+shreddit-comment[author=glynnjamin],
+shreddit-comment[author=SidxTalks],
+shreddit-comment[author=Shortsqueezepleasee],
+shreddit-comment[author=methoncrack87],
+shreddit-comment[author=Chestnutty48],
+shreddit-comment[author=Sarcofaygo],
+shreddit-comment[author=Danielnrg],
+shreddit-comment[author=EaglesPDX],
+shreddit-comment[author=HotPocket_Consumed],
+shreddit-comment[author=OnlineApprentice],
+shreddit-comment[author=mracidglee],
+shreddit-comment[author=Matthewthatlearner],
+shreddit-comment[author=slightofhand1],
+shreddit-comment[author=TrappedOnScooter],
+shreddit-comment[author=cabell88],
+shreddit-comment[author=ApplegateEntAgency],
+shreddit-comment[author=os_kaiserwilhelm],
+shreddit-comment[author=crypt0_sports],
+shreddit-comment[author=The-My-Dude],
+shreddit-comment[author=Expected_Guests],
+shreddit-comment[author=tentationscheme77],
+shreddit-comment[author=poopoomergency4],
+shreddit-comment[author=Fargon-Icehole],
+shreddit-comment[author=westwardhi],
+shreddit-comment[author=Laidlaw_Hall_of_Fame],
+shreddit-comment[author=jenkemhuffer93],
+shreddit-comment[author=Lawfan1],
+shreddit-comment[author=Royal-Albatross420],
+shreddit-comment[author=Trail-Dust],
+shreddit-comment[author=SorryYourHonor],
+shreddit-comment[author=J_Blonde],
+shreddit-comment[author=SpitfireIsDaBestFire],
+shreddit-comment[author=Dondadufus],
+shreddit-comment[author=gobucks1981],
+shreddit-comment[author=K1nsey6],
+shreddit-comment[author=PorkfatWilly],
+shreddit-comment[author=le3vi__],
+shreddit-comment[author=magnetar_industries],
+shreddit-comment[author=Pickles_1974],
+shreddit-comment[author=dbadass6],
+shreddit-comment[author='0U8124X'],
+shreddit-comment[author=EFTA_and_EEA],
+shreddit-comment[author=Mission_Curve_8472],
+shreddit-comment[author=Code2008],
+shreddit-comment[author=MessageTotal],
+shreddit-comment[author=AntwerpsPlacebo420],
+shreddit-comment[author=RFK_supporter],
+shreddit-comment[author=Substantial_Bass_929],
+shreddit-comment[author=Scarlettail],
+shreddit-comment[author='4kray'],
+shreddit-comment[author=mastermind1228],
+shreddit-comment[author='-Nok'],
+shreddit-comment[author=khrushchevy2thelevy],
+shreddit-comment[author=dutchiegeet32],
+shreddit-comment[author=Affectionate_Yam9076],
+shreddit-comment[author='4_tha_H'],
+shreddit-comment[author=Time-Ad8550],
+shreddit-comment[author='The_Draugder'],
+shreddit-comment[author=No-Passenger3193],
+shreddit-comment[author=Kelble],
+shreddit-comment[author=FeistyAsparagus69],
+shreddit-comment[author='42_Is_The_Answr'],
+shreddit-comment[author=Crazy-Jicama4388],
+shreddit-comment[author=Mozart9927],
+shreddit-comment[author=notsure9191],
+shreddit-comment[author=kneeco28],
+shreddit-comment[author=CosmosDGW],
+shreddit-comment[author=External-Meeting-375],
+shreddit-comment[author=GROOM-DOGS-NOT-KIDS],
+shreddit-comment[author=ShenanedAgain],
+shreddit-comment[author=Ok-Lychee2685],
+shreddit-comment[author=Obvious_Chapter2082],
+shreddit-comment[author=nsfwtttt],
+shreddit-comment[author=Mysterious_Bit6882],
+shreddit-comment[author=curiosityseeks],
+shreddit-comment[author=MilfSwapper82],
+shreddit-comment[author=FarContract9814],
+shreddit-comment[author=SpillinThaTea],
+shreddit-comment[author=Bobobo75],
+shreddit-comment[author=stenti36],
+shreddit-comment[author=osvelimalmirk],
+shreddit-comment[author=Yqms],
+shreddit-comment[author=burnwallst],
+shreddit-comment[author=TotalJannycide],
+shreddit-comment[author=Forsaken-Speaker-879],
+shreddit-comment[author=Important-Youth-4434],
+shreddit-comment[author=kingbro715],
+shreddit-comment[author=TheTruthTalker800],
+shreddit-comment[author=Virgin-Curer],
+shreddit-comment[author=zipthezip],
+shreddit-comment[author=TheodoreKurita],
+shreddit-comment[author=Purple_Team83],
+shreddit-comment[author=MrFeverDreamJr],
+shreddit-comment[author=JubalHarshaw23],
+shreddit-comment[author=Salty_Hawk3274],
+shreddit-comment[author='AFK---'],
+shreddit-comment[author='BIGDOG99DA'],
+shreddit-comment[author=s_c_h_i_s_m],
+shreddit-comment[author=faubanks],
+shreddit-comment[author=Okbuddyliberals],
+shreddit-comment[author=NorridgeM22],
+shreddit-comment[author=dreddllama],
+shreddit-comment[author=Garak_The_Tailor_],
+shreddit-comment[author=darrylgorn],
+shreddit-comment[author='4levelclover'],
+shreddit-comment[author=MAD_ELMO],
+shreddit-comment[author=Ill-Goose-7803],
+shreddit-comment[author=liferdog],
+shreddit-comment[author=aaaaaddfwwwfwfsf],
+shreddit-comment[author=wishtherunwaslonger],
+shreddit-comment[author=Saw_Doctor],
+shreddit-comment[author=Ricklmesa],
+shreddit-comment[author='deleted'],
+shreddit-comment[author=Yourehan],
+shreddit-comment[author=Mike_Huncho],
+shreddit-comment[author=PT10],
+shreddit-comment[author=Wheatonthin],
+shreddit-comment[author=MushyBiscuts] {
+  border: 2px solid #f00;
+  background-color: rgba(255, 0, 0, .15);
+}
+
+shreddit-comment[author=goodposter],
+shreddit-comment[author=goodposter],
+shreddit-comment[author=goodposter],
+shreddit-comment[author=goodposter],
+shreddit-comment[author=goodposter],
+shreddit-comment[author=goodposter],
+shreddit-comment[author=goodposter],
+shreddit-comment[author=HonoredPeople],
+shreddit-comment[author=Grandpa_No],
+shreddit-comment[author=southpawFA],
+shreddit-comment[author=Yousoggyyojimbo],
+shreddit-comment[author=TintedApostle] {
+  border: 2px solid rgba(0, 255, 0, 0.25);
+  background-color: rgba(0, 255, 0, .1);
+}
+
+
+/* INSANE */
+shreddit-comment[author=INSANE],
+shreddit-comment[author=INSANE],
+shreddit-comment[author=INSANE],
+shreddit-comment[author=INSANE],
+shreddit-comment[author=INSANE],
+shreddit-comment[author=INSANE],
+shreddit-comment[author=INSANE],
+shreddit-comment[author=ShoppingDismal3864] {
+  border: 2px solid #ff9966;
+  background-color: rgba(255, 100, 0, .15);
+}
+
+/* HIDDEN */
+shreddit-comment[author=AutoModerator] {
+  display: none;
+}
+
+#AppRouter-main-content > div > div > div:nth-of-type(2) > div:nth-of-type(3) {
+  max-width: 100%;
+}
+
+#AppRouter-main-content > div > div > div:nth-of-type(2) > div:nth-of-type(3) div {
+  max-width: 100%;
+}
+
+#AppRouter-main-content > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) {
+  display: none;
+}
+
+.t1_gfp0oh8 {
+  display: none;
+}
+
+#overlayScrollContainer p {
+  font-size: 18px !important;
+  line-height: 1.5em;
+}
+
+/* div[data-scroller-first] {
+  display: none;
+} */
+
+divshreddit-comment[author="AutoModerator"] {
+  display: none;
+}
+
+div[data-testid="comment"] a {
+  text-decoration: none;
+}
+
+p:has(span .expando-button.collapsed.image) a {
+  text-decoration: none;
+  color: #ff0;
+}
+
+
+p:has(div[data-host='twitter']) a { 
+  text-decoration: none;
+  color: #f0f;
+}
+
+div[data-testid="comment"] a[href*=".jpg"],
+div[data-testid="comment"] a[href*=".jpeg"],
+div[data-testid="comment"] a[href*=".png"],
+div[data-testid="comment"] a[href*=".gif"],
+div[data-testid="comment"] a[href*="imgur.com"],
+div[data-testid="comment"] a[href*="pbs.twimg.com"] {
+  border: 2px solid #095;
+  display: inline-block;
+}
+
+.expando-button {
+  cursor: pointer;
+  user-select: none;
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  margin-left: 5px;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLXBsdXMtc3F1YXJlIj48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSIyIiByeT0iMiI+PC9yZWN0PjxsaW5lIHgxPSIxMiIgeTE9IjgiIHgyPSIxMiIgeTI9IjE2Ij48L2xpbmU+PGxpbmUgeDE9IjgiIHkxPSIxMiIgeDI9IjE2IiB5Mj0iMTIiPjwvbGluZT48L3N2Zz4=");
+  vertical-align: top !important;
+  padding: 0px;
+}
+
+div.Comment:has([id*="CommentTopMeta--OP"]) {
+  border: 2px solid rgba(0, 121, 211, .5);
+  background-color: rgba(0, 121, 211, .2);
+}
+
+a[href*='imgur.com'] {
+  color: #fff;
+  outline: 2px solid #0f0;
+  outline-offset: 2px;
+}
+
+main {
+  width: calc(100vw - 48px) !important;
+  max-width: 100vw;
+}
+
+#right-sidebar-container,
+#left-sidebar-container {
+  display: none;
+}
+
+@media screen and (min-width: 1200px) {
+  .subgrid-container {
+    margin-left: -280px;
+    width: 100vw;
+    max-width: 100vw;
+  }
+}
+
+div[slot="post-media-container"]:has(faceplate-tracker a[href*="breitbart.com"],
+faceplate-tracker a[href*="townhall.com"],
+faceplate-tracker a[href*="telegraph.co.uk"],
+faceplate-tracker a[href*="foxnews"],
+faceplate-tracker a[href*="newsweek"],
+faceplate-tracker a[href*="jacobin"],
+faceplate-tracker a[href*="thefederalist"],
+faceplate-tracker a[href*="newsyorkpost"],
+faceplate-tracker a[href*="freebeacon"],
+faceplate-tracker a[href*="politico"],
+faceplate-tracker a[href*="freebeacon"],
+faceplate-tracker a[href*="washingtonexaminer"],
+faceplate-tracker a[href*="dailywire"],
+faceplate-tracker a[href*="nytimes"],
+faceplate-tracker a[href*="theamericanconservative"],
+faceplate-tracker a[href*="cis.org"],
+faceplate-tracker a[href*="thehill"],
+faceplate-tracker a[href*="mises"],
+faceplate-tracker a[href*="usatoday"]) {
+  background: repeating-linear-gradient(
+    -55deg,
+    #f00,
+    #222 2px,
+    #333 6px,
+    #333 6px
+  );
+  border: 2px solid #f00;
+}
+
+#post-image {
+  max-width: 300px;
+}
+
+a:has(.post-background-image-filter) {
+  display: none;
+}
