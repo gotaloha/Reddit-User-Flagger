@@ -8,5 +8,6 @@ You click the red button next to their name and their entire comment becomes red
 
 Similarly, posters that you encounter who always seem to bring good info and vibes to every post can also be flagged so that you don't miss any of their posts.
 
-Each user name is stored in your browser's "local storage" and is personal and private to you and you alone. And no, other user's have no way of knowing that you have flagged them.
+Each user name is stored in your browser's "local storage" and is personal and private to you and you alone. And no, other users have no way of knowing that you have flagged them.
+
 -----
