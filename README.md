@@ -11,3 +11,17 @@ Similarly, posters that you encounter who always seem to bring good info and vib
 Each user name is stored in your browser's "local storage" and is personal and private to you and you alone. And no, other users have no way of knowing that you have flagged them.
 
 -----
+
+# Installation
+1. Fork, clone, or download this repository into an empty folder of your choosing.
+
+_To install, you must first enable "Developer Mode" within Chrome's Extension manager._
+
+2. Navigate to this URL: [chrome://extensions/](chrome://extensions/)
+3. Enable the **Developer Mode** toggle switch in the upper-right corner of the page
+4. Simply **drag the folder** containing this repo's files onto the page.
+5. The extension should now be installed and active!
+
+Navigate to any Reddit post to verify.
+
+Please note that Reddit devs change things up occasionally, so although this extension is working fine now, I make no guarantees that this will continue functioning in perpetuity. Since this was born out of my own need, I will likely fix any breaking changes as quickly as possible. 
